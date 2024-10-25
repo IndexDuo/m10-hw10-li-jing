@@ -43,9 +43,6 @@
 
 .header__nav {
     display: flex;
-    max-width: 1200px;
-    margin: 0 auto;
-    box-sizing: border-box;
 }
 
 .header__nav > a:not(:first-of-type) {
